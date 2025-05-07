@@ -62,8 +62,8 @@ The Jupyter Notebook `Understanding_LLMs.ipynb` serves as an interactive, step-b
 
 1.  **Clone the repository:**
     ```bash
-    git clone <repository-url>
-    cd <repository-name>
+    git clone <https://github.com/Shreyas-Walde/Understanding_LLMs.git>
+    cd <Understanding_LLMs>
     ```
 2.  **Create a `.env` file:**
     In the root directory of the project, create a file named `.env` and add your API keys:
@@ -79,7 +79,6 @@ The Jupyter Notebook `Understanding_LLMs.ipynb` serves as an interactive, step-b
     google-generativeai
     python-dotenv
     torch
-    # Add any other specific versions if necessary
     ```
 4.  **Open and Run the Notebook:**
     Launch Jupyter Notebook or JupyterLab and open `Understanding_LLMs.ipynb`. Execute the cells sequentially to see the concepts in action.
